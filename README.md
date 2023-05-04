@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **Orpheus-3145/Orpheus-3145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Fra](https://badge42.vercel.app/api/v2/clh8wyjqa003008mkp23r36wx/stats?cursusId=21&coalitionId=59)](https://www.linkedin.com/in/francesco-aru-032181174/)
 
 Here are some ideas to get you started:
 
